@@ -1,5 +1,5 @@
 {
-    "name": "totara/codesniffer",
+    "name": "eher/totara-code-sniffer",
     "description": "PHP Code Sniffer standard for Totara Coding Style.",
     "type": "phpcodesniffer-standard",
     "keywords": [
